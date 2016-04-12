@@ -1,0 +1,5 @@
+{
+    "read": "base::readRDS",
+    "index": "index.json",
+    "repo": "richfitz/data2"
+}
